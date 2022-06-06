@@ -1,0 +1,5 @@
+demo:
+  tags:
+    - ci
+  script:
+    - echo Hello 
